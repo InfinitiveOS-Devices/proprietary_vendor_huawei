@@ -624,4 +624,11 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/cherry/proprietary/etc/firmware/Signedrompatch_v20.bin:system/etc/firmware/Signedrompatch_v20.bin \
     vendor/huawei/cherry/proprietary/etc/firmware/Signedrompatch_v21.bin:system/etc/firmware/Signedrompatch_v21.bin \
     vendor/huawei/cherry/proprietary/etc/firmware/Signedrompatch_v24.bin:system/etc/firmware/Signedrompatch_v24.bin \
-    vendor/huawei/cherry/proprietary/etc/firmware/Signedrompatch_v30.bin:system/etc/firmware/Signedrompatch_v30.bin
+    vendor/huawei/cherry/proprietary/etc/firmware/Signedrompatch_v30.bin:system/etc/firmware/Signedrompatch_v30.bin \
+    vendor/huawei/cherry/proprietary/system/app/NfcDNci/NfcDNci.apk:system/app/NfcDNci/NfcDNci.apk \
+    vendor/huawei/cherry/proprietary/system/etc/firmware/nfc_test.bin:system/etc/firmware/nfc_test.bin \
+    vendor/huawei/cherry/proprietary/system/framework/com.android.nfc.helper.jar:system/framework/com.android.nfc.helper.jar \
+    vendor/huawei/cherry/proprietary/system/framework/com.android.qcom.nfc_extras.jar:system/framework/com.android.qcom.nfc_extras.jar \
+    vendor/huawei/cherry/proprietary/system/vendor/lib/hw/nfc_nci.msm8916.so:system/vendor/lib/hw/nfc_nci.msm8916.so \
+    vendor/huawei/cherry/proprietary/system/vendor/lib/libnfcD-nci.so:system/vendor/lib/libnfcD-nci.so \
+    vendor/huawei/cherry/proprietary/system/vendor/lib/libnfcD_nci_jni.so:system/vendor/lib/libnfcD_nci_jni.so 
