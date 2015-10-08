@@ -631,4 +631,7 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/cherry/proprietary/system/framework/com.android.qcom.nfc_extras.jar:system/framework/com.android.qcom.nfc_extras.jar \
     vendor/huawei/cherry/proprietary/system/vendor/lib/hw/nfc_nci.msm8916.so:system/vendor/lib/hw/nfc_nci.msm8916.so \
     vendor/huawei/cherry/proprietary/system/vendor/lib/libnfcD-nci.so:system/vendor/lib/libnfcD-nci.so \
-    vendor/huawei/cherry/proprietary/system/vendor/lib/libnfcD_nci_jni.so:system/vendor/lib/libnfcD_nci_jni.so 
+    vendor/huawei/cherry/proprietary/system/vendor/lib/libnfcD_nci_jni.so:system/vendor/lib/libnfcD_nci_jni.so \
+		vendor/huawei/cherry/proprietary/bin/libqmi_oem_main:system/bin/libqmi_oem_main \
+		vendor/huawei/cherry/proprietary/lib/hw/lights.msm8916.so:system/lib/hw/lights.msm8916.so \
+		vendor/huawei/cherry/proprietary/lib/libqmi_oem_api.so:system/lib/libqmi_oem_api.so 
